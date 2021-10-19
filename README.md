@@ -11,6 +11,6 @@ RMQ must be up and running at below mentioned port.
 http://localhost:15672
 
 ## Steps to run in local:
-1> git clone git@github.com:RakshithVP/data-storage-service.git - Clone this repo.
-2> mvn clean install - to generate jar files in target repository.
-3> java -jar dataStorageService-0.0.1-SNAPSHOT.jar - run the spring boot application.
+1. git clone git@github.com:RakshithVP/data-storage-service.git - Clone this repo.
+2. mvn clean install - to generate jar files in target repository.
+3. java -jar dataStorageService-0.0.1-SNAPSHOT.jar - run the spring boot application.
